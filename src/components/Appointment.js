@@ -2,7 +2,7 @@ import React from "react";
 
 const Appointment = () => {
   return (
-    <div className="bg-black w-full p-8 rounded-sm max-w-[22rem] md:max-w-md mx-auto">
+    <div className="bg-accent w-full p-8 rounded-sm max-w-[22rem] md:max-w-md mx-auto">
       <h3 className="text-white text-[28px] font-bold tracking-[0.3px] text-center">
         Başvuru Oluşturun
       </h3>
